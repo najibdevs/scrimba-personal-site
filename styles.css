@@ -1,0 +1,52 @@
+/* global styles */
+body {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;  
+}
+
+
+/* images */
+img {
+    width: 300px;
+    border: 6px solid black;
+    border-radius: 50%;
+}
+
+/* input fields */
+input {
+    display: block;
+    margin: 20px 0 0;
+    width: 160px;
+    box-sizing: border-box;
+    padding: 4px 8px;
+    border: 1px solid black;
+    color: black;
+    background: none;
+}
+
+/* input placeholders */
+input::placeholder {
+    color: black;
+}
+
+/* links */
+a {
+    color: black;
+}
+
+/* buttons */
+button {
+    padding: 5px 10px;
+    border: none;
+    background: black;
+    color: white;
+    font-weight: bold;
+    box-sizing: border-box;
+    display: block;
+    margin: 8px 0;
+    cursor: pointer;
+    width: 160px;
+}
