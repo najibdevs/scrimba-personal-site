@@ -3,7 +3,7 @@
 This is a simple personal website template created using HTML and CSS.
 
 ## Description
-This project serves as a template for a personal website showcasing basic information about ME. It includes a profile picture, name, fun facts, a link to my LinkedIn profile, and a newsletter signup form.
+This project serves as a template for a personal website showcasing basic information about Me. It includes a profile picture, name, fun facts, a link to my LinkedIn profile, and a newsletter signup form.
 
 ## Technologies Used
 - HTML: Used for creating the structure and content of the web page.
@@ -27,7 +27,7 @@ This project serves as a template for a personal website showcasing basic inform
 4. **Google Fonts Integration**: Understanding how to integrate external fonts into a web project using Google Fonts.
 
 ## Live Demo
-[View the live project here]()
+[View the live project here](https://scrimba-personal-site.vercel.app/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
